@@ -10,4 +10,4 @@ Name: Yasaswini Majety ID: 700747747
 
 3.Letter grade based on an input class score, using if statement conditions
 
-Code File - ICP_1_Spring24.ipynb Document- ICP_1_Spring24.DOCX
+Code File - ICP_1_Spring24.ipynb Document- ICP_1_Spring24.pages
